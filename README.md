@@ -1,13 +1,13 @@
 <!-- Banner -->
 <img src="rakibgithubbanner.png" style="width:100%; height:auto; border-radius:10px;">
 
-<h1 align="center">👋 Hey, I'm <span style="color:#FF6B6B;">Golam Easin</span></h1>
+<h1 align="center">👋 Hey, I'm <span style="color:#FF6B6B;">Rakibul hasan</span></h1>
 <h3 align="center">🚀 Frontend Developer | Crafting Modern & Interactive Web Experiences</h3>
 
 ---
 
 ## 🧠 About Me  
-Hi! I'm *Golam Easin, a passionate **Frontend Developer* from *Bangladesh* 🇧🇩.  
+Hi! I'm *Rakibul Hasan, a passionate **Frontend Developer* from *Bangladesh* 🇧🇩.  
 I love building *modern, **responsive, and **user-focused* web interfaces with clean and maintainable code.  
 
 > 💡 “I believe great design is invisible — the best interfaces just feel right.”
@@ -73,22 +73,18 @@ Here are some of the tools, tutorials, and resources I frequently use:
   </a>
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/golameasin" target="_blank" style="margin-right: 15px;">
+  <a href="(https://www.linkedin.com/in/rakib190/)" target="_blank" style="margin-right: 15px;">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="40" width="40" alt="LinkedIn" style="filter: invert(43%) sepia(83%) saturate(3160%) hue-rotate(194deg) brightness(92%) contrast(95%);" />
   </a>
 
   <!-- Facebook -->
-  <a href="https://www.facebook.com/golameasin" target="_blank" style="margin-right: 15px;">
+  <a href="https://www.facebook.com/share/1PJsdW5Tqf/" target="_blank" style="margin-right: 15px;">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" height="40" width="40" alt="Facebook" style="filter: invert(32%) sepia(99%) saturate(1764%) hue-rotate(205deg) brightness(95%) contrast(97%);" />
   </a>
 
-  <!-- YouTube -->
-  <a href="https://www.youtube.com/@golameasin" target="_blank" style="margin-right: 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" height="40" width="40" alt="YouTube" style="filter: invert(20%) sepia(99%) saturate(7350%) hue-rotate(358deg) brightness(94%) contrast(120%);" />
-  </a>
-
+ 
   <!-- Portfolio -->
-  <a href="https://inspiring-manatee-3d598f.netlify.app/" target="_blank">
+  <a href="https://rakib-s-portfolio-1y1q.vercel.app" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vercel.svg" height="40" width="40" alt="Portfolio" style="filter: invert(100%);" />
   </a>
 </p>
