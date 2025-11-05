@@ -137,8 +137,11 @@ Here are some of the tools, tutorials, and resources I frequently use:
 ## 🌐 Contribution Badge  
 
 <p align="center">
-  <img src="https://api.vaunt.dev/v1/github/entities/golameasin24/contributions?format=svg&private=true" alt="Vaunt Badge" />
+  <img src="https://api.vaunt.dev/v1/github/entities/rakibdev100/contributions?format=svg&private=true&theme=light" alt="Vaunt Badge (Light)" />
 </p>
+
+
+
 
 ---
 
