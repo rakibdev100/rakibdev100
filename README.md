@@ -37,10 +37,10 @@ Here are some of my live projects and resources I've worked on:
 
 | Project | Description | Live Demo | Source Code |
 |---------|-------------|-----------|-------------|
-| *Portfolio Website* | My personal portfolio built with React & Tailwind CSS | [View Live](https://inspiring-manatee-3d598f.netlify.app/) | [GitHub Repo](https://github.com/golameasin24/portfolio) |
-| *E-Commerce Store* | A fully responsive online store using React, Redux & Firebase | [View Live](https://awesome-store.netlify.app/) | [GitHub Repo](https://github.com/golameasin24/ecommerce-store) |
-| *Blog Platform* | A modern blog platform built with Next.js & MongoDB | [View Live](https://golam-blog.vercel.app/) | [GitHub Repo](https://github.com/golameasin24/blog-platform) |
-| *Weather App* | Real-time weather info app using React & OpenWeather API | [View Live](https://weather-app-golam.netlify.app/) | [GitHub Repo](https://github.com/golameasin24/weather-app) |
+| *Portfolio Website* | My personal portfolio built with React & Tailwind CSS | [View Live]() | [GitHub Repo]() |
+| *E-Commerce Store* | A fully responsive online store using React, Redux & Firebase | [View Live]() | [GitHub Repo]() |
+| *Blog Platform* | A modern blog platform built with Next.js & MongoDB | [View Live]() | [GitHub Repo]() |
+| *Weather App* | Real-time weather info app using React & OpenWeather API | [View Live]() | [GitHub Repo]() |
 
 ---
 
